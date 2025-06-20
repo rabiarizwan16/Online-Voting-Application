@@ -1,0 +1,23 @@
+POST Data:
+Array
+(
+    [category] => Bihar
+    [position_name] => Chief Minister
+    [candidate_name] => Chirag Paswan
+    [party_name] => Lok Janshakti Party
+)
+
+FILES Data:
+Array
+(
+    [candidate_symbol_image] => Array
+        (
+            [name] => 1000126806.jpg
+            [full_path] => 1000126806.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\Xamp\tmp\php170.tmp
+            [error] => 0
+            [size] => 97399
+        )
+
+)

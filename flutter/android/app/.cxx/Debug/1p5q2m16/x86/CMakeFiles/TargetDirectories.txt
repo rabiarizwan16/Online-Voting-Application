@@ -1,0 +1,2 @@
+C:/Users/rabia/AndroidStudioProjects/surevote/android/app/.cxx/Debug/1p5q2m16/x86/CMakeFiles/edit_cache.dir
+C:/Users/rabia/AndroidStudioProjects/surevote/android/app/.cxx/Debug/1p5q2m16/x86/CMakeFiles/rebuild_cache.dir

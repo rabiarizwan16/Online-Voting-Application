@@ -1,0 +1,60 @@
+[23-Feb-2025 11:12:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:68
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(68): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 68
+[23-Feb-2025 11:13:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:59
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(59): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 59
+[23-Feb-2025 11:14:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:58
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(58): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 58
+[23-Feb-2025 11:18:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:20:00 Europe/Berlin] PHP Warning:  Undefined variable $conn in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:20:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:21:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:25:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:27:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ABC1234567' for key 'voter_id' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:28:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'therabia412@gmail.com' for key 'email' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:29:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'therabia412@gmail.com' for key 'email' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:29:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'therabia412@gmail.com' for key 'email' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
+[23-Feb-2025 11:33:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'therabia412@gmail.com' for key 'email' in D:\Xamp\htdocs\php\connection.php:61
+Stack trace:
+#0 D:\Xamp\htdocs\php\connection.php(61): mysqli_query(Object(mysqli), 'INSERT INTO vot...')
+#1 {main}
+  thrown in D:\Xamp\htdocs\php\connection.php on line 61
